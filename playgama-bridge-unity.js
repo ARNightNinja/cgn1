@@ -141,9 +141,9 @@ function initializeBridge() {
                 createUnityInstance(
                     CANVAS,
                     {
-                        dataUrl: 'Build/52cdfaac5b8363333fcf2332f2028e20.data.unityweb',
-                        frameworkUrl: 'Build/bb1decf0d2decad0ee4b13b0069087cc.framework.js.unityweb',
-                        codeUrl: 'Build/b9c8643b4bc7fdacebd26548e440711b.wasm.unityweb',
+                        dataUrl: 'Build/a55c755d94c7fb2c4d75d5a08bdddd4d.data.unityweb',
+                        frameworkUrl: 'Build/2be689db4dcae555a8df996b268a90ec.framework.js.unityweb',
+                        codeUrl: 'Build/a04fe06d137912a54475f94544164b78.wasm.unityweb',
                         streamingAssetsUrl: 'StreamingAssets',
                         companyName: 'Car.Crash.Race.Simulator.Sandbox',
                         productName: 'Drive Zone',
